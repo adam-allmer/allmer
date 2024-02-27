@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "Allmer.io"
-  text: "Personal Website"
-  tagline: My great project tagline
+  name: "Adam Allmer"
+  text: "A guy who does a bit of everything"
+  [//]: # tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Find out more about me
+      link: /about/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Check out my dog 🐶
+      link: /kaiser/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Occupation
+    icon: 🔧
+    details: I am a Quality Engineer II at Bobcat Company
+  - title: Location
+    icon: 🗺
+    details: Wahpeton, ND
+  - title: Education
+    icon: 📚
+    details: North Dakota State University
 ---
 
