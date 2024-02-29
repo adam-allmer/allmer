@@ -1,15 +1,28 @@
-
-[//]: # (I am creating a webpage to showcase my professional self)
+---
+layout: doc
+lastUpdated: true
+---
 
 # Hello!
 
 ## I am Adam Allmer
+
 - Quality Engineer II at Bobcat Company
 - First Lieutenant in the United States Marine Corps
 - Mechanical Engineering B.S. from North Dakota State University
 - Professional Photographer
 - Amatuer Bullrider
 
-### Experience {#experience}
-I have been fortunate enough to work with Bobcat Company in many different engineering roles, currently in the Quality Engineer II role at the Wahpeton, ND facility. I currently am focused on our manifold valves, fan motors, and track tensioners product quality, and have a focus in the teams digital integration capabilities. I am also currently a reserve USMC Field Artillery Officer with Quebec Battery, 5th Battalion, 14th Marines.
--
+## Experience
+
+I have been involved in various engineering roles at Bobcat Company, focusing on product quality and digital integration capabilities. Additionally, I serve as a reserve USMC Field Artillery Officer.
+
+### Past Roles
+
+- **Quality Engineering Intern**: Dived into quality analysis at the hydraulic manufacturing facility.
+- **Design Engineering Intern**: Applied course knowledge to R&D projects.
+- **Manufacturing Engineering Co-op**: Gained insights into the manufacturing industry.
+
+## Photography
+
+I am a passionate photographer, capturing moments from weddings to outdoor adventures.

@@ -1,0 +1,19 @@
+{
+    "_comment": "Create a file containing my personal information to use across pages",
+    "Adam": {
+        "firstname": "Adam",
+        "lastname": "Allmer",
+        "birthday": "1997-04-28",
+        "location": "Wahpeton, ND",
+        "occupation": "Mechanical Engineer",
+        "email": "adam-allmer@outlook.com",
+        "phone": "701-630-6309"
+    },
+    "Kaiser": {
+        "firstname": "Kaiser",
+        "birthday": "2022-04-29",
+        "location": "Wahpeton, ND",
+        "occupation": "Dog",
+        "about": "Kaiser is a mix of Pit Bull, German Shepherd, and Husky. He is a very energetic dog who loves to play fetch and go on walks. He is very friendly and loves to meet new people. His favorite trick is shake."
+    }
+}

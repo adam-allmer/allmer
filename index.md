@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Adam Allmer"
   text: "A guy who does a bit of everything"
-  [//]: # tagline: My great project tagline
+  tagline: But not everything well
   actions:
     - theme: brand
       text: Find out more about me
