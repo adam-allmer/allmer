@@ -31,3 +31,5 @@ coverage
 
 # template file for vitepress blog
 /blog/template.md
+/markdown-examples.md
+/api-examples.md
