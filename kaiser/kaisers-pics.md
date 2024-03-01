@@ -4,6 +4,8 @@ lastUpdated: true
 aside: false
 ---
 
+<center><img src="/kaiser_img06.jpg" alt="Kaiser" style="width: 400px;"/></center>
+<center><p>Adam and Kaiser</p></center>
 <center><img src="/kaiser_img04.jpg" alt="Kaiser" style="width: 400px;"/></center>
 <center><p>New specs!</p></center>
 <center><img src="/kaiser_img03.gif" alt="Kaiser" style="width: 400px;"/></center>
