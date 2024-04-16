@@ -5,11 +5,17 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.44",
+    "@types/node": "^20.11.25",
+    "vitepress": "^1.1.0",
     "vue": "^3.4.20"
   },
   "dependencies": {
+    "feed": "^4.2.2",
+    "file-system": "^1.2.2",
+    "fs": "^0.0.1-security",
     "markdown-it-footnote": "^4.0.0",
-    "medium-zoom": "^1.1.0"
-  }
+    "medium-zoom": "^1.1.0",
+    "path": "^0.12.7"
+  },
+  "type": "module"
 }
