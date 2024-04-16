@@ -12,6 +12,7 @@ lastUpdated: true
 - Mechanical Engineering B.S. from North Dakota State University
 - Professional Photographer
 - Amatuer Bullrider
+- *Poverty* Developer<sup>TM</sup>
 
 ## Experience
 

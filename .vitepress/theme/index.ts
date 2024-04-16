@@ -2,8 +2,9 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import KaiserAge from './components/kaiser-age.vue'
-import BlogPostCard from './components/blog-post-card.vue'
+//import Layout from './Layout.vue'
+import KaiserAge from './kaiser-age.vue'
+//import BlogPostCard from './blog-post-card.vue'
 import './style.css'
 
 export default {
@@ -16,6 +17,6 @@ export default {
   enhanceApp({ app, router, siteData }) {
     // ...
     app.component('KaiserAge', KaiserAge);
-    app.component('BlogPostCard', BlogPostCard);
+    //app.component('BlogPostCard', BlogPostCard);
   }
 } satisfies Theme
