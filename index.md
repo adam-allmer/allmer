@@ -1,7 +1,7 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 lastUpdated: false
+title: Adam
 
 hero:
   name: "Adam Allmer"
