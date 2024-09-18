@@ -16,7 +16,7 @@ export default defineConfig({
       md.use(footnote)
     }
   },
-  lastUpdated: false,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
