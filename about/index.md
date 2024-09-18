@@ -1,6 +1,5 @@
 ---
 layout: doc
-lastUpdated: true
 ---
 
 # Hello!
