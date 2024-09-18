@@ -8,7 +8,7 @@ lastUpdated: true
 <center><img src="/kaiser_img01.jpg" alt="Kaiser" style="width: 400px;"/></center>
 
 ## His Story
-Kaiser was adopted in the Fall of 2022, but before we met, he probably went through some shit.
+Kaiser was adopted in the Fall of 2022, but before he met Adam, he probably went through some shit.
 He's a great dog.
 You can't be great without enduring some shit.
 
@@ -18,8 +18,8 @@ He found his way into Adam's home and heart on October 10, 2022.
 
 Since being a part of Adam's life, Kaiser has found joy tugging on ropes, going for long runs, and chewing through toys and pillows until they
 are in bits and pieces.
-When Adam is away from home, Kaiser has been able to enjoy the company of his uncle Thomas, his grandpa Mike, or grandma Angie to babysit him.
-Kaiser has made quite a few close friends, such as Scarlett, Loki, Henry, Rosie, Kodak, and Thor.
+When Adam is away from home, Kaiser has been able to enjoy the company of his mom (Winter), his uncle (Thomas), his grandpa (Mike), or grandma (Angie) to babysit him.
+Kaiser has made quite a few close friends, such as Scarlet, Loki, Henry, Rosie, Kodak, and Thor. He is still trying to be friendly with his siblings Esmerelda and Nova.
 
 A favorite activity for Kaiser is to get dressed up for the holidays/seasons, particularily he looks good in his work coat or a charming bandana.
 
@@ -28,15 +28,15 @@ Details about Kaiser
   - **Breed**: 48.4% American Pit Bull Terrier, 31.1% German Shepherd Dog, 20.5% Siberian Husky [^1]
   - **Sex**: Male
   - **Age:** <KaiserAge />
-  - **Weight:** 81 lbs
+  - **Weight:** 96 lbs
   - **Color:** Black w/ White Chest
 
 ### Medical History
   - Neutered *7 Oct 2022*
-  - Heartworm negative *17 July 2023*
+  - Heartworm negative *27 Aug 2024*
   - **Shot Records:**
-    - Bordetella *17 July 2023*
-    - Lepto *17 July 2023*
+    - Bordetella *27 Aug 2024*
+    - Lepto *27 Aug 2024*
     - Rabies *19 August 2022*
       - Tag Number: 3168 (Circle C Veterinary Service PLLC)
     - Rabies Booster *17 July 2023*
