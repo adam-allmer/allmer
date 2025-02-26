@@ -6,8 +6,8 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.25",
-    "vitepress": "^1.1.0",
-    "vue": "^3.4.20"
+    "vitepress": "2.0.0-alpha.3",
+    "vue": "^3.5.13"
   },
   "dependencies": {
     "feed": "^4.2.2",
