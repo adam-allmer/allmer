@@ -8,7 +8,7 @@ lastUpdated: true
 ## I am Adam Allmer
 
 - Quality Engineer II at Bobcat Company
-- First Lieutenant in the United States Marine Corps
+- Captain in the United States Marine Corps
 - Mechanical Engineering B.S. from North Dakota State University
 - Professional Photographer
 - Amatuer Bullrider
