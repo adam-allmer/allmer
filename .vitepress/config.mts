@@ -61,7 +61,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/adam-allmer' },
-      { icon: 'instagram', link: 'https://www.instagram.com/ajallmer/' },
+      //{ icon: 'instagram', link: 'https://www.instagram.com/ajallmer/' }, //deactivated IG
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/adamallmer' },
       {
         icon: {
