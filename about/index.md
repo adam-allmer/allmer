@@ -11,7 +11,7 @@ lastUpdated: true
 - Captain in the United States Marine Corps
 - Mechanical Engineering B.S. from North Dakota State University
 - Professional Photographer
-- Amatuer Bullrider
+- Amateur Bullrider
 - *Poverty* Developer<sup>TM</sup>
 
 ## Experience
